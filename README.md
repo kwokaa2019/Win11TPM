@@ -1,7 +1,3 @@
-先找一台電腦，直接下載這個登錄檔，放到安裝碟內。
-https://www.mediafire.com/file/xjx59xwu7z76sts/BypassTPM.reg/file
-
-
 看到Windows 11 安裝畫面出現時，直接按鍵盤的 Shift + F10 開啟命令提示字元。
 
 輸入「regedit」，按 Enter 鍵，開啟登錄編輯程式。
