@@ -1,3 +1,5 @@
+下載點 "https://www.mediafire.com/file/xjx59xwu7z76sts/BypassTPM.reg/file"
+
 看到Windows 11 安裝畫面出現時，直接按鍵盤的 Shift + F10 開啟命令提示字元。
 
 輸入「regedit」，按 Enter 鍵，開啟登錄編輯程式。
@@ -6,4 +8,5 @@
 
 接下來就能正常進行 Windows 11 安裝囉~
 
-自製無 TPM & Secure Boot 驗證的 Windows 11 安裝映像檔
+
+
